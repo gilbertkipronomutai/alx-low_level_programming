@@ -3,11 +3,11 @@
 #include <time.h>
 
 /**
- * main - print if the number is positive, zero, or negative
- * Description: using the main function 
- * this program prints "Programming is positive, zero oe negative"
- * Return: (0) always - Success
- */
+* main - print if the number is positive, zero, or negative
+* Description: using the main function 
+* this program prints "Programming is positive, zero oe negative"
+* Return: (0) always - Success
+*/
 int main(void)
 {
 int n;
